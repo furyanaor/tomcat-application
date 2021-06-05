@@ -14,5 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
+  <iframe src="https://www.ebay.com" width="100%" height="300"></iframe>
 </body>
 </html>
