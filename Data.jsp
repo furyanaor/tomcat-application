@@ -14,6 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
-  <iframe src="https://www.google.com" width="100%" height="100%"></iframe>
+  <iframe src="https://www.tutorialrepublic.com" width="100%" height="100%"></iframe>
 </body>
 </html>
